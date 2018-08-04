@@ -48,4 +48,10 @@ public class AppTest
         assertTrue( true );
         System.out.println( "Hello Maven" );
     }
+    
+    public void testApp4()
+    {
+        assertTrue( true );
+        System.out.println( "Hello TestNG" );
+    }
 }
