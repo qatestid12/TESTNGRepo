@@ -55,9 +55,4 @@ public class AppTest
         System.out.println( "Hi TestNG" );
     }
     
-    public void testApp5()
-    {
-        assertTrue( true );
-        System.out.println( "Hi" );
-    }
 }
