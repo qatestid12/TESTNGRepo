@@ -34,7 +34,12 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        System.out.println( "Hello Jenken World!" );
     }
     
-    
+    public void testApp2()
+    {
+        assertTrue( true );
+        System.out.println( "Hello dgs" );
+    }
 }
