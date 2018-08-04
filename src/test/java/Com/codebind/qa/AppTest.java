@@ -46,7 +46,7 @@ public class AppTest
     public void testApp3()
     {
         assertTrue( true );
-        System.out.println( "Hello Maven" );
+        System.out.println( "Hello" );
     }
     
 
