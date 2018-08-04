@@ -42,4 +42,10 @@ public class AppTest
         assertTrue( true );
         System.out.println( "Hello dgs" );
     }
+    
+    public void testApp3()
+    {
+        assertTrue( true );
+        System.out.println( "Hello Maven" );
+    }
 }
